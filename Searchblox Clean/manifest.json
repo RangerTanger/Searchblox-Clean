@@ -11,7 +11,7 @@
       "48": "images/48x48.png"
    },
    "manifest_version": 3,
-   "name": "SearchBlox Clean (maybe)",
+   "name": "SearchBlox Clean",
    "permissions": [ "scripting" ],
    "version": "1.0.0",
    "web_accessible_resources": [ {
